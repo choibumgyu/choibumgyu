@@ -14,7 +14,7 @@
 [![Solved.ac Profile](https://mazandi.herokuapp.com/api?handle=bumgoogle98&theme=warm)](https://solved.ac/bumgoogle98)
 
 * **Baekjoon Online Judge: <span style="color: #00C4A7;">Platinum V</span>** ([@bumgoogle98](https://www.acmicpc.net/user/bumgoogle98))
-  * 알고리즘 문제 해결 및 효율적인 코드 작성에 능숙합니다.
+  * 알고리즘 문제 해결 및 효율적인 코드 작성에 자신있습니다*
 
  
 
