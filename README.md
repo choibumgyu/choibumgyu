@@ -16,7 +16,14 @@
 * **Baekjoon Online Judge: <span style="color: #00C4A7;">Platinum V</span>** ([@bumgoogle98](https://www.acmicpc.net/user/bumgoogle98))
   * 알고리즘 문제 해결 및 효율적인 코드 작성에 자신있습니다*
 
- 
+ ## 📓 Learning Archive
+> "지속적인 성장을 기록하는 공간입니다."
+
+[![Notion Badge](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/63a9256d3ee142afbbe133ddc7678fcb)
+
+* **[Bumgyu's Study Log](https://www.notion.so/63a9256d3ee142afbbe133ddc7678fcb)**
+  * Spring Boot, Java, Algorithm 등 학습한 기술의 핵심 내용을 정리하고 있습니다.
+  * 프로젝트 진행 과정에서의 트러블슈팅과 해결 경험을 기록합니다.
 
 
 - 🔭 I’m currently working on ...
