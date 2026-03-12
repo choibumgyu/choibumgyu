@@ -3,7 +3,7 @@
 ## 🎓 Education
 * ** 한양대학교 (Hanyang University)**
 * ** 컴퓨터소프트웨어학부 (B.S. in Computer Science)**
-* ** 2022.03 ~ 2026.02** (졸업 예정)
+* ** 2022.03 ~ 2026.02** 
 
 ## 💼 Experience
 * **현대중공업 DT 인턴** (Hyundai Heavy Industries)
